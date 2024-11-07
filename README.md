@@ -47,12 +47,12 @@ Easy Reordering: Save your favorite products and reorder with just a few clicks
 
 <hr>
 <h3>
-  <a href="https://drive.google.com/file/d/1EdRdK08dWQZOGGwcz_cN_terYo7ViPHS/view?usp=drive_link">
+  <a href="">
     📱 Get an APK for this app.
   </a>
 </h3>
 <h3>
-  <a href="https://drive.google.com/file/d/1zNSUdnY4zgP70IJJ_irOp_1w0CeCJxJi/view?usp=drive_link">
+  <a href="">
     🎥Click here to watch on a screen recording for this app.
   </a>
 </h3>
