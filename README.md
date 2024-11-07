@@ -5,7 +5,7 @@
      <a href="https://api.visitorbadge.io/api/visitors?path=shop_app&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank">
         <img src="https://api.visitorbadge.io/api/visitors?path=shop_app&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank" />
     </a>
-    <a href="www.linkedin.com/in/ehdaaabdullahsalah
+    <a href="[www.linkedin.com/in/ehdaaabdullahsalah](https://www.linkedin.com/in/ehdaaabdullahsalah/)
 /" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
