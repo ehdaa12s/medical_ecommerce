@@ -14,7 +14,7 @@
    
 </div>
 
-![Untitled](https://github.com/user-attachments/assets/fda85acb-d0ee-487f-b074-60caae36ff4c)
+![Untitled](https://github.com/ehdaa12s/medical_ecommerce/blob/main/assets/images/Uer%20Home.png)
 
 ## 🚀 Getting Started
 
