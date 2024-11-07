@@ -18,13 +18,25 @@
 
 ## 🚀 Getting Started
 
-🛍️ ShopShop: Your Ultimate Shopping Companion
+🛍️ Medical suppliers app : Your Ultimate Shopping Companion
 Start your journey with a sleek splash screen and secure authentication. Explore the latest trends with intuitive navigation, featuring banners, categories, and detailed product views. Keep track of your favorites, find exactly what you need with smart search, and enjoy a seamless checkout with Stripe and PayPal.
+Key Features:
+
+Extensive Product Catalog: Browse thousands of medical supplies, including personal protective equipment, diagnostic tools, surgical instruments, and rehabilitation products.
+
+User-Friendly Interface: Easy navigation with organized categories and a powerful search function to help you find exactly what you need.
+
+Secure Payments: Multiple payment options with robust security measures for a safe shopping experience.
+
+Order Tracking: Real-time updates and tracking of your orders from dispatch to delivery.
+
+Bulk Ordering and Discounts: Options for bulk purchases with special discounts for clinics, hospitals, and large facilities.
+
+Easy Reordering: Save your favorite products and reorder with just a few clicks.
 
 ## 🤳 Screens
 
 - Splash Screen: Wait for 3 seconds then navigate to On-Boarding Screens. 
-- On-Boarding Screens: Provide a seamless and engaging introduction to our app.
 - Sign Up and Sign in screens: to can create a new account if you are a new or login if you are used this app before.
 - Home Screen: The home screen is your gateway to the latest trends, featuring dynamic banners, diverse categories, and a wide selection of products tailored to your preferences.
 - Search Screen: To find what you’re looking for with our powerful search functionality, allowing you to discover products quickly and efficiently.
