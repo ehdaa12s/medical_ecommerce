@@ -14,7 +14,7 @@
    
 </div>
 
-![Untitled](https://github.com/ehdaa12s/medical_ecommerce/blob/main/assets/images/Uer%20Home.png)
+![Untitled](https://github.com/ehdaa12s/medical_ecommerce/blob/main/assets/images/user%20Home.png)
 
 ## 🚀 Getting Started
 
