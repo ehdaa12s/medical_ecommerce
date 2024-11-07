@@ -5,8 +5,7 @@
      <a href="https://api.visitorbadge.io/api/visitors?path=shop_app&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank">
         <img src="https://api.visitorbadge.io/api/visitors?path=shop_app&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank" />
     </a>
-    <a href="[www.linkedin.com/in/ehdaaabdullahsalah](https://www.linkedin.com/in/ehdaaabdullahsalah/)
-/" target="_blank">
+    <a href="https://www.linkedin.com/in/ehdaaabdullahsalah/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B%2F0STRzQ4QLWLo%2FfDooYOoA%3D%3D" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
   <a href="mailto:abdullahehdaa@gmail.com">
