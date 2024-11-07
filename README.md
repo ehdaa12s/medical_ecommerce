@@ -65,24 +65,9 @@ Easy Reordering: Save your favorite products and reorder with just a few clicks
 ![image](https://github.com/user-attachments/assets/7813bcb8-2082-464e-924c-64f27986debc)
 
 
-## 📱 UI
-
-### |------ Sign up screen -------|---------- Sign in screen ---------|
-<p>
-<img src="https://github.com/user-attachments/assets/e179ef1c-8d0b-4fc2-8b91-371a5929da5a"   width="32%" height="50%">
-<img src="https://github.com/user-attachments/assets/cf4bb478-7283-4cdd-95e6-1b34cdb3b92f"   width="32%" height="50%">
-</p>
 
 
 
-### |------- Welcome screen --------|----- Welcome screen ------|------ Welcome screen ------|
-<p>
-<img src="https://github.com/user-attachments/assets/429c9d39-fb14-4982-8c23-df0d4dbcc635"   width="32%" height="50%">
-<img src="https://github.com/user-attachments/assets/bd4cc99f-98b6-4d86-b557-d912d1d1bac7"   width="32%" height="50%">
-<img src="https://github.com/user-attachments/assets/b58fb403-c0f6-48d2-b882-1409485504ea"   width="32%" height="50%">
-</p>
 
 
-### |-------- Home screen ----------|------- Search screen ------|--------- Favorite screen -------|
-<p>
-<img src="https://github.com/user-attachments/ass
+
